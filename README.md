@@ -21,7 +21,7 @@ Input login: 79031111111
 Input password:
 
 There are friends online:
- Алексей Третьяков
+ РђР»РµРєСЃРµР№ РўСЂРµС‚СЊСЏРєРѕРІ
 ```
 
 # Project Goals
